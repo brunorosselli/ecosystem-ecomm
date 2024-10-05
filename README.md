@@ -429,7 +429,7 @@ As requisições com o padrão `/products` devem ser repassadas para a API exter
 
 3. O tempo de resposta máximo dos endpoints não pode ultrapassar 500ms.
 
- 
+--------------------------------------------------------------------------------------------------------------------------------- 
 
 3.**Arquitetura Clean:** Aplique os conceitos de Clean Architecture para garantir que cada módulo tenha uma separação clara entre as camadas de apresentação, aplicação, domínio e infraestrutura.
 
